@@ -20,7 +20,15 @@ A seguir, visão completa do dashboard para contextualizar os indicadores e aná
 
 ---
 
-## 🎯 O Problema de Negócio
+## � Acesse o Dashboard Interativo
+
+O dashboard está publicado e disponível online. Clique no link abaixo para explorar todos os indicadores, filtros e análises em tempo real:
+
+[![Power BI Dashboard](https://img.shields.io/badge/Abrir%20Dashboard-Power%20BI-F2C811?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiNzgxM2I2NzktNDJlOS00MWNlLWEwNDctNWY0NWY0NjE4NmVhIiwidCI6ImM0NDFhOGY2LTFhYzAtNDc2OC05Yzg0LWMzOTVkOThmMzhjNyJ9)
+
+---
+
+## �🎯 O Problema de Negócio
 
 Uma rede varejista de eletrônicos com lojas físicas e canal online precisava de visibilidade centralizada sobre sua operação comercial. As perguntas que não tinham resposta rápida:
 
