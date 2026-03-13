@@ -1,4 +1,4 @@
-# 🛒 HASHTAG ELETRO — DASHBOARD DE VENDAS EM POWER BI
+# 🛒 HASHTAG ELETRO - DASHBOARD DE VENDAS EM POWER BI
 
 > **De dados brutos a inteligência de negócio:** um dashboard gerencial completo de uma rede varejista de eletronicos, com modelagem estrela, time intelligence e análise de devoluções (Este projeto faz parte do curso de formação em Análise de Dados da Hashtag Treinamentos).
 
@@ -6,6 +6,16 @@
 ![DAX](https://img.shields.io/badge/DAX-31%20medidas-0078D4?style=flat)
 ![Modelo Estrela](https://img.shields.io/badge/Modelo-Estrela-brightgreen?style=flat)
 ![Status](https://img.shields.io/badge/Status-Concluído-success?style=flat)
+
+---
+
+## 🖥️ Visão Geral do Dashboard
+
+A seguir, três telas principais do dashboard para contextualizar os indicadores e análises.
+
+| Visão Geral | Análises | Devoluções |
+|------------|----------|------------|
+| ![Geral](assets/DahsboardGeral.png) | ![Análises](assets/DahsboardAnalises.png) | ![Devoluções](assets/DahsboardDevoluções.png) |
 
 ---
 
@@ -205,7 +215,7 @@ O objetivo foi construir um modelo analítico robusto, com atenção à qualidad
 
 ---
 
-🔗 **[LinkedIn — Gustavo Santos](#)**
+🔗 **[LinkedIn — Gustavo Santos](https://www.linkedin.com/in/santosgustavohenrique)**
 
 *Se este projeto foi útil ou te inspirou, deixa uma ⭐ no repositório!*
 
