@@ -11,11 +11,12 @@
 
 ## 🖥️ Visão Geral do Dashboard
 
-A seguir, três telas principais do dashboard para contextualizar os indicadores e análises.
+A seguir, visão completa do dashboard para contextualizar os indicadores e análises.
 
-| Visão Geral | Análises | Devoluções |
-|------------|----------|------------|
-| ![Geral](assets/DahsboardGeral.png) | ![Análises](assets/DahsboardAnalises.png) | ![Devoluções](assets/DahsboardDevoluções.png) |
+| Capa | Visão Geral |
+|------|-------------|
+| ![Capa](assets/DahsboardCapa.png) | ![Geral](assets/DahsboardGeral.png) |
+| ![Análises](assets/DahsboardAnalises.png) | ![Devoluções](assets/DahsboardDevoluções.png) |
 
 ---
 
