@@ -20,7 +20,7 @@ A seguir, visão completa do dashboard para contextualizar os indicadores e aná
 
 ---
 
-## � Acesse o Dashboard Interativo
+## 📊 Acesse o Dashboard Interativo
 
 O dashboard está publicado e disponível online. Clique no link abaixo para explorar todos os indicadores, filtros e análises em tempo real:
 
@@ -28,7 +28,7 @@ O dashboard está publicado e disponível online. Clique no link abaixo para exp
 
 ---
 
-## �🎯 O Problema de Negócio
+## 🚨 O Problema de Negócio
 
 Uma rede varejista de eletrônicos com lojas físicas e canal online precisava de visibilidade centralizada sobre sua operação comercial. As perguntas que não tinham resposta rápida:
 
